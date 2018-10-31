@@ -1,6 +1,6 @@
 # (Work in Progress) InstaceID for Real-time Video Multi-instance Object Segmentation
 
-This repository contains the current progress of the Instance Identification module.
+This repository contains the current progress of the Instance Identification module of Video Segmentation.
 
 ## InstanceID 
 
